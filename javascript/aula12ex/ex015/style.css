@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, rgba(115, 56, 182, 0.897), rgba(4, 28, 240, 0.747));
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.37);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
